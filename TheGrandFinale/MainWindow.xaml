@@ -1,0 +1,16 @@
+﻿<Window x:Class="TheGrandFinale.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TheGrandFinale"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525"
+        DataContext="{Binding Ridders, Source={StaticResource Locator}}">
+    <StackPanel>
+        <Button Command="{Binding ShowAdd}"
+            Padding="10" Background="#FF4E7642" Foreground="White">Add Ridder</Button>
+        <TextBlock>Ridders</TextBlock>
+        <DataGrid ItemsSource="{Binding Ridders}"></DataGrid>
+    </StackPanel>
+</Window>
