@@ -1,0 +1,9 @@
+C:\Users\Stijn\source\repos\TheGrandFinale\TheGrandFInale.Database\bin\Debug\TheGrandFInale.Database.dacpac
+C:\Users\Stijn\source\repos\TheGrandFinale\TheGrandFInale.Database\bin\Debug\TheGrandFInale.Database.dll
+C:\Users\Stijn\source\repos\TheGrandFinale\TheGrandFInale.Database\bin\Debug\TheGrandFInale.Database.pdb
+C:\Users\Stijn\source\repos\TheGrandFinale\TheGrandFInale.Database\obj\Debug\Model.xml
+C:\Users\Stijn\source\repos\TheGrandFinale\TheGrandFInale.Database\obj\Debug\refactor.xml
+C:\Users\Stijn\source\repos\TheGrandFinale\TheGrandFInale.Database\obj\Debug\postdeploy.sql
+C:\Users\Stijn\source\repos\TheGrandFinale\TheGrandFInale.Database\obj\Debug\predeploy.sql
+C:\Users\Stijn\source\repos\TheGrandFinale\TheGrandFInale.Database\obj\Debug\TheGrandFInale.Database.dll
+C:\Users\Stijn\source\repos\TheGrandFinale\TheGrandFInale.Database\obj\Debug\TheGrandFInale.Database.pdb

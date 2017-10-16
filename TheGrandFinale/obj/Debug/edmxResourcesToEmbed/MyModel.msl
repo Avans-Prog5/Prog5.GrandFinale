@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="thegrandfinaleModelStoreContainer" CdmEntityContainer="thegrandfinaleEntities">
+    <EntitySetMapping Name="Ridder">
+      <EntityTypeMapping TypeName="thegrandfinaleModel.Ridder">
+        <MappingFragment StoreEntitySet="Ridder">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Naam" ColumnName="Naam" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
